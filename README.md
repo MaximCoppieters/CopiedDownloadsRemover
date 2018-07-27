@@ -1,4 +1,4 @@
-# CopiedDownloadsRemover
+# Copied Downloads Remover
 
 Small tool that deletes files/directories in the Downloads folder if they already occur somewhere else in the user's home folder. Made for those that tend to copy things out of their Downloads folder without removing the original file.
 
