@@ -6,18 +6,18 @@ How to use:
 1) Clone the repository
 2) Open a terminal and navigate to the src folder
 3) Compile the .java source files into .class files
-'''bash
+```bash
   javac Main.java
-'''
+```
 4) Build the .class files into a jar artifact
-'''bash
+```bash
 jar cvfe DownloadsClearer.jar Main *.class
-'''
+```
 5) Making the jar runnable (unix basic OS)
-'''bash
+```bash
 chmod +x DownloadsClearer.jar
-'''
+```
 6) Running the jar:
-'''bash
+```bash
 java -jar DownloadsClearer.jar
-'''
+```
